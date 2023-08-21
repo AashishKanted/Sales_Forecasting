@@ -19,7 +19,7 @@ Now open Forecasting and analysis.ipynb’ (google colab notebook)
 6. The forecasted sum of sales predicted for that period is stored in the ‘forecast_result.xlsx’ file
 7. Go through the comments to understand what works how
 
-##Results
+## Results
 Not many parameters were tuned due to time constraints, but sufficiently okay results were obtained because of Prophet's seasonal pattern recogonition.
 A few results can be seen in the colab output graphs shown.
 
